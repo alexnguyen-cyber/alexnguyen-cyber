@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! <br/><a href="https://github.com/joshmadakor1">Student @ KSU</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Major</a>
+<h1>Hi, I'm Alex! <br/><a ">Student @ KSU</a>, <a >Cybersecurity Major</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -20,20 +20,17 @@
 
 <h2> 📄 Certifications:</h2>
 
+- Harvard's CS50 Introduction to Programming with Python (Expected September 2026)
 - IBM Artificial Intelligence Fundamentals
 - Cisco Introduction to Cybersecurity
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://www.instagram.com/laalaa_alex/
+[linkedin]: https://www.linkedin.com/in/alexander-nguyen-7a44b63b9/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

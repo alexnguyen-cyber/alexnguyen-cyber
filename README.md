@@ -9,7 +9,7 @@
 - Harvard's CS50 Introduction to Programming with Python (Expected September 2026)
 - IBM Artificial Intelligence Fundamentals
 - Cisco Introduction to Cybersecurity
-- 
+
 <h2> 🤔 Fun Facts:</h2>
 
 - My favorite anime is One Piece

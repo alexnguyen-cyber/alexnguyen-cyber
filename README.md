@@ -7,13 +7,12 @@
 <h2> 📄 Certifications:</h2>
 
 - Harvard's CS50 Introduction to Programming with Python (Expected September 2026)
-- IBM Artificial Intelligence Fundamentals
-- Cisco Introduction to Cybersecurity
+- [IBM Artificial Intelligence Fundamentals](https://www.credly.com/badges/f05aa2e8-18f1-4ac3-ac3c-4984baf3b123/public_url)
+- [Cisco Introduction to Cybersecurity](https://www.credly.com/badges/8c177b10-dd0e-4224-8d90-5cea6d035971/public_url)
 
 <h2> 🤔 Fun Facts:</h2>
 
 - My favorite anime is One Piece
-- I collect One Piece trading cards
 - My favorite UFC fighter is Charles Oliveira
 - Hobbies: anime, gym, UFC
 <h2> 🤳 Connect with me:</h2>

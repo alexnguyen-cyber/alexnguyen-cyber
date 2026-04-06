@@ -13,6 +13,7 @@
 <h2> 🤔 Fun Facts:</h2>
 
 - My favorite anime is One Piece
+- I collect One Piece trading cards
 - My favorite UFC fighter is Charles Oliveira
 - Hobbies: anime, gym, UFC
 <h2> 🤳 Connect with me:</h2>

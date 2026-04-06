@@ -9,8 +9,9 @@
 <h2> 📄 Certifications:</h2>
 
 - Harvard's CS50 Introduction to Programming with Python (Expected September 2026)
-- [Cisco Introduction to Cybersecurity](https://www.credly.com/badges/8c177b10-dd0e-4224-8d90-5cea6d035971/public_url)
+- Security Blue Team BTJA (Expected May 2026)
 - [IBM Artificial Intelligence Fundamentals](https://www.credly.com/badges/f05aa2e8-18f1-4ac3-ac3c-4984baf3b123/public_url)
+- [Cisco Introduction to Cybersecurity](https://www.credly.com/badges/8c177b10-dd0e-4224-8d90-5cea6d035971/public_url)
 
 <h2> 🤔 Fun Facts:</h2>
 

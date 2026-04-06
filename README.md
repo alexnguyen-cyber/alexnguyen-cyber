@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex! <br/><a ">Student @ KSU</a> | <a >Cybersecurity Major</a>
 
-<h2> A dedicated Cybersecurity major currently pursuing my degree at Kennesaw State University. With a strong passion for technology, I am committed to developing my skills and knowledge in the ever-evolving field of cybersecurity.
+<h4> A dedicated Cybersecurity major currently pursuing my degree at Kennesaw State University. With a strong passion for technology, I am committed to developing my skills and knowledge in the ever-evolving field of cybersecurity.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -9,8 +9,8 @@
 <h2> 📄 Certifications:</h2>
 
 - Harvard's CS50 Introduction to Programming with Python (Expected September 2026)
-- [IBM Artificial Intelligence Fundamentals](https://www.credly.com/badges/f05aa2e8-18f1-4ac3-ac3c-4984baf3b123/public_url)
 - [Cisco Introduction to Cybersecurity](https://www.credly.com/badges/8c177b10-dd0e-4224-8d90-5cea6d035971/public_url)
+- [IBM Artificial Intelligence Fundamentals](https://www.credly.com/badges/f05aa2e8-18f1-4ac3-ac3c-4984baf3b123/public_url)
 
 <h2> 🤔 Fun Facts:</h2>
 

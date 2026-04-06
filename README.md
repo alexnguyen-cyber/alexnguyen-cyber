@@ -1,5 +1,7 @@
 <h1>Hi, I'm Alex! <br/><a ">Student @ KSU</a>, <a >Cybersecurity Major</a>
 
+<h2> A dedicated Cybersecurity major currently pursuing my degree at Kennesaw State University. With a strong passion for technology, I am committed to developing my skills and knowledge in the ever-evolving field of cybersecurity.
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <b>none 😭</b>

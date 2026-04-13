@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
-<b>none 😭</b>
+<b>Under construction 🔨</b>
 
 <h2> 📄 Certifications:</h2>
 

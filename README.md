@@ -9,7 +9,6 @@
 <h2> 📄 Certifications:</h2>
 
 - CompTIA Security+ (Expected July 2026)
-- Security Blue Team: Blue Team Junior Analyst (BTJA)
 - [Tata Cybersecurity Analyst Job Simulation (Forage)](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_69d3748d81f10941300292df_1775525839393_completion_certificate.pdf)
 - [Master card Cybersecurity Job Simulation (Forage)](https://www.theforage.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_69d3748d81f10941300292df_1775498801502_completion_certificate.pdf)
 - [IBM Artificial Intelligence Fundamentals](https://www.credly.com/badges/f05aa2e8-18f1-4ac3-ac3c-4984baf3b123/public_url)

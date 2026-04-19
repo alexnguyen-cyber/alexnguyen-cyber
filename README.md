@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
-<b>[Active Directory Environment (Oracle VirtualBox + PowerShell Automation](https://github.com/alexnguyen-cyber/Active-Directory-Environment)
+- <b>[Active Directory Environment (Oracle VirtualBox + PowerShell Automation](https://github.com/alexnguyen-cyber/Active-Directory-Environment)
 </b>
 
 <h2> 📄 Certifications:</h2>

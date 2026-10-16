@@ -9,7 +9,6 @@
 
 <h2> 📄 Certifications:</h2>
 
-- CompTIA Network+ (Expected October 2026)
 - [TryHackMe Pre Security (SEC0)](https://www.credly.com/badges/6a25786c-63e5-442a-8746-69ae6a852b81/public_url)
 - [Tata Cybersecurity Analyst Job Simulation (Forage)](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_69d3748d81f10941300292df_1775525839393_completion_certificate.pdf)
 - [Master card Cybersecurity Job Simulation (Forage)](https://www.theforage.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_69d3748d81f10941300292df_1775498801502_completion_certificate.pdf)
